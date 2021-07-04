@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TechnologySearch/static/css/main.64e917aa.chunk.css",
+    "main.js": "/TechnologySearch/static/js/main.d8c15d94.chunk.js",
+    "main.js.map": "/TechnologySearch/static/js/main.d8c15d94.chunk.js.map",
+    "runtime~main.js": "/TechnologySearch/static/js/runtime~main.90d5fa06.js",
+    "runtime~main.js.map": "/TechnologySearch/static/js/runtime~main.90d5fa06.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/TechnologySearch/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/TechnologySearch/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/TechnologySearch/index.html",
+    "precache-manifest.276b0524da3b14d86d9bfaf739ea61ef.js": "/TechnologySearch/precache-manifest.276b0524da3b14d86d9bfaf739ea61ef.js",
+    "service-worker.js": "/TechnologySearch/service-worker.js",
+    "static/css/main.64e917aa.chunk.css.map": "/TechnologySearch/static/css/main.64e917aa.chunk.css.map"
+  }
+}

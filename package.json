@@ -1,6 +1,7 @@
 {
   "name": "project",
   "version": "0.1.0",
+  "homepage": "http://sarathan.github.io/TechnologySearch",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.1",
